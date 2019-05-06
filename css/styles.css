@@ -14,6 +14,7 @@
     box-sizing: border-box;
 }
 
+/* 
 div,
 header,
 span,
@@ -22,7 +23,7 @@ li,
 nav,
 main {
     border: 1px solid blue;
-}
+} */
 
 body {
     background-color: white;
