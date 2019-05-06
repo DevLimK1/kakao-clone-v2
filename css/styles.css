@@ -4,9 +4,21 @@
 @import "header.css";
 @import "nav-bar.css";
 @import "friend.css";
+@import "friends.css ";
+
 
 * {
     box-sizing: border-box;
+}
+
+div,
+header,
+span,
+ul,
+li,
+nav,
+main {
+    border: 1px solid blue;
 }
 
 body {
