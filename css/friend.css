@@ -15,10 +15,12 @@
 .friend__avatar.g-avatar {
     border-radius: 35%;
     width: 70px;
+    margin-right: 10px;
 }
 
 .friend__avatar.m-avatar {
     border-radius: 35%;
+    margin-right: 10px;
     width: 60px;
 }
 
