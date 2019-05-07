@@ -4,18 +4,21 @@
     align-items: center;
 }
 
-.friend .friend__avatar {
+.friend .friend__s-avatar {
     width: 50px;
-    border-radius: 38%;
+    height: 50px;
+    border-radius: 35%;
     margin-right: 15px;
 }
 
 
 .friend__avatar.g-avatar {
+    border-radius: 35%;
     width: 70px;
 }
 
 .friend__avatar.m-avatar {
+    border-radius: 35%;
     width: 60px;
 }
 
